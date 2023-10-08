@@ -1,4 +1,4 @@
-# file-sharing-system
+# Share-me
 File Sharing Web App to share files like images,pdf with your friends in the college using Nodejs,MongoDb,Bootstrap !!
 # Features
 * Mongoose Database
